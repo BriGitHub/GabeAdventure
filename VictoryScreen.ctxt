@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VictoryScreen
+comment0.text=\n\ Write\ a\ description\ of\ class\ VictoryScreen\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=VictoryScreen()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ VictoryScreen.\n\ \n
+comment2.params=
+comment2.target=void\ message()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Gabe
+comment1.params=
+comment1.target=Gabe()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Gabe\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ checkKeypress()
+comment3.text=\n\ Check\ whether\ a\ control\ key\ on\ the\ keyboard\ has\ been\ pressed.\n\ If\ it\ has,\ react\ accordingly.\n
+numComments=4

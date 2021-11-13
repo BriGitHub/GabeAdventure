@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Mover
+comment1.params=firstImage\ secondImage
+comment1.target=void\ switchImage(greenfoot.GreenfootImage,\ greenfoot.GreenfootImage)
+comment2.params=
+comment2.target=void\ lookForGabe()
+comment3.params=
+comment3.target=void\ fall()
+comment4.params=
+comment4.target=void\ endScreen()
+comment5.params=
+comment5.target=void\ spawn()
+comment6.params=
+comment6.target=void\ spawnJetpacks()
+numComments=7

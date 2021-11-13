@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ Citation\ of\ the\ image\ used\ fot\ MyWorld\n\ http\://aaees.net/room-red/\ (Custom\ Room\ Red\ Red\ Walls\ Room\ Interior)\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=points
+comment3.target=void\ addScore(int)
+comment3.text=\n\ Add\ some\ points\ to\ our\ current\ score.\ (May\ be\ negative.)\n\ If\ the\ score\ falls\ below\ 0,\ you\ can\ still\ get\ to\ the\ end\ of\ the\ game\ but\ you\ won't\ "win".\n
+comment4.params=
+comment4.target=int\ getScore()
+comment5.params=
+comment5.target=void\ showScore()
+comment5.text=\n\ Show\ our\ current\ score\ on\ screen.\n
+comment6.params=
+comment6.target=void\ countTime()
+comment6.text=\n\ Count\ down\ the\ game\ time\ and\ display\ it.\ Stop\ the\ game\ \n\ with\ a\ winning\ message\ when\ time\ is\ up.\n
+comment7.params=
+comment7.target=void\ showTime()
+comment7.text=\n\ Show\ the\ remaining\ game\ time\ on\ screen.\n
+numComments=8

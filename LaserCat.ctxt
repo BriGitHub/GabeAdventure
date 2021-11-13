@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LaserCat
+comment1.params=
+comment1.target=LaserCat()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ laser\ cat\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3
